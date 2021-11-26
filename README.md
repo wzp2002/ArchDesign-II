@@ -24,3 +24,8 @@ These file are generated with Enscape automatically.
 Performance is needed.
 
 Only for demonstration use. No commercial use without permission.
+
+
+## Licenses
+
+This repository uses CC Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0).
