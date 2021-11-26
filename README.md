@@ -17,7 +17,7 @@ Pretty exceptional choices, huh.
 
 ## Publish
 
-I'll publish my model's render executable file with the publish feature.
+I'll publish my model's render executable file in the release section.
 
 These file are generated with Enscape automatically.
 
