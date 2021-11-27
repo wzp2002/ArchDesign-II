@@ -6,9 +6,11 @@ This repository is for showing the progress of me - a complete architectural noo
 
 This repository will store Architectural Designing files/publications in School Year 2 (2021-2022).
 
+This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-ProjectNo. (E.g: 2021-1-2)
+
 ## Software/tools Used
 
-### The first project was using
+### The first project(2021-1-1) was using
 
 - SketchUP
 - AutoCAD 2022
