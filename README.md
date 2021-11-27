@@ -37,6 +37,9 @@ Performance is needed.
 
 Only for demonstration use. No commercial use without permission.
 
+## Misc.
+
+I don't accpet merge / pull request for this repository, this is just for demonstration & reference.
 
 ## Licenses
 
