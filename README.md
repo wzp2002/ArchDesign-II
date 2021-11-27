@@ -8,6 +8,16 @@ This repository will store Architectural Designing files/publications in School 
 
 ## Software/tools Used
 
+### The first project was using
+
+- SketchUP
+- AutoCAD 2022
+- TianZheng Arch. T20 v7.0
+- Enscape
+- Affinity Photo/Designer/Publisher
+
+### The rest projects was/is using
+
 - ArchiCAD
 - Enscape
 - Twinmotion w/ Direct Link (& Epic Game Store)
