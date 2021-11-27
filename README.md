@@ -1,6 +1,6 @@
 # ArchDesign-II
 
-A publication page for my designing courses.
+A publish page for my designing courses.
 
 This repository is for showing the progress of me - a complete architectural noob can do what in the architecture designing courses.
 
