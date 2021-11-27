@@ -13,7 +13,7 @@ This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-P
 ### The first project(2021-1-1) was using
 
 - SketchUP
-- AutoCAD 2022
+- AutoCAD 2022 (CAD.dwg file must be opened with AutoCAD + TZ Arch T20 v7.0)
 - TianZheng Arch. T20 v7.0
 - Enscape
 - Affinity Photo/Designer/Publisher
@@ -32,10 +32,6 @@ Pretty exceptional choices, huh.
 I'll publish my model's render executable file in the release section.
 
 These file are generated with Enscape automatically.
-
-Performance is needed.
-
-Only for demonstration use. No commercial use without permission.
 
 ## Misc.
 
