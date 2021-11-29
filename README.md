@@ -37,8 +37,13 @@ These file are generated with Enscape automatically.
 
 ## Misc.
 
-I don't accpet merge / pull request for this repository, this is just for demonstration & reference.
+I don't accept merge / pull request for this repository, this is just for demonstration & reference.
 
 ## Licenses
 
 This repository uses CC Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0).
+
+## Credits
+
+Zhaoping Wang(@wzp2002) for designing
+FDS(@nonefffds) for uploading files
