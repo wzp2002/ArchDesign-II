@@ -45,5 +45,6 @@ This repository uses CC Attribution-NonCommercial-ShareAlike 4.0 International l
 
 ## Credits
 
-Zhaoping Wang(@wzp2002) for designing
-FDS(@nonefffds) for uploading files
+Zhaoping Wang(@wzp2002) for designing works
+
+FDS(@nonefffds) for helping upload files / writing notes
