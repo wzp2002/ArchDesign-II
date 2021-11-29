@@ -8,6 +8,8 @@ This repository will store Architectural Designing files/publications in School 
 
 This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-ProjectNo. (E.g: 2021-1-2)
 
+Update in every Monday & Thursday during the semester, until next year.
+
 ## Software/tools Used
 
 ### The first project(2021-1-1) was using
