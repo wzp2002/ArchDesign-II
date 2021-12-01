@@ -1,5 +1,15 @@
 # ArchDesign-II
 
+[![BasedOn - ArchiCAD](https://img.shields.io/badge/BasedOn-ArchiCAD-lightgrey?logo=Archicad)](https://graphisoft.com/solutions/archicad)
+
+[![LatestBuild - Failed](https://img.shields.io/badge/LatestBuild-Failed-red)](https://github.com/wzp2002/ArchDesign-II/releases)
+[![releaseBuild - Successed](https://img.shields.io/badge/releaseBuild-Successed-green)](https://github.com/wzp2002/ArchDesign-II/releases)
+
+[![wzp2002 - ArchDesign-II](https://img.shields.io/static/v1?label=wzp2002&message=ArchDesign-II&color=blue&logo=github)](https://github.com/wzp2002/ArchDesign-II "Go to GitHub repo")
+[![stars - ArchDesign-II](https://img.shields.io/github/stars/wzp2002/ArchDesign-II?style=social)](https://github.com/wzp2002/ArchDesign-II)
+[![forks - ArchDesign-II](https://img.shields.io/github/forks/wzp2002/ArchDesign-II?style=social)](https://github.com/wzp2002/ArchDesign-II)
+[![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue)](#license)
+
 A publish page for my designing courses.
 
 This repository is for showing the progress of me - a complete architectural noob can do what in the architecture designing courses.
