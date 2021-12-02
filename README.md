@@ -16,8 +16,6 @@ This repository is for showing the progress of me - a complete architectural noo
 
 This repository will store Architectural Designing files/publications in School Year 2 (2021-2022).
 
-This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-ProjectNo. (E.g: 2021-1-2)
-
 Update in every Monday & Thursday during the semester, until next year.
 
 ## Software/tools Used
@@ -39,11 +37,25 @@ Update in every Monday & Thursday during the semester, until next year.
 
 Pretty exceptional choices, huh.
 
-## Publish
+## Constructure
+
+### Folders
+
+This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-ProjectNo. (E.g: 2021-1-2)
+
+All project related file are stored in the corresponding folder.
+
+### Branches
+
+Currently there's 2 branches, the main branch is for the final works, and the wasted branch is for the plans that are/were abandoned but needed for store.
+
+### Releases
 
 I'll publish my model's render executable file in the release section.
 
-These file are generated with Enscape automatically.
+Tags are versions.
+
+These file are generated with Enscape, can only be open with Windows.
 
 ## Misc.
 
