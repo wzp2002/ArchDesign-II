@@ -59,7 +59,7 @@ These file are generated with Enscape, can only be open with Windows.
 
 ## Misc.
 
-I don't accept merge / pull request for this repository, this is just for demonstration & reference.
+I don't accept merge / pull request for this repository(except from @nonefffds for maintenance), this is just for demonstration & reference.
 
 ## Licenses
 
