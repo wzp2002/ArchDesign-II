@@ -28,7 +28,7 @@ Update in every Monday & Thursday during the semester, until next year.
 - Enscape
 - Affinity Photo/Designer/Publisher
 
-### The rest projects was/is using
+### The rest projects was/is/well be using
 
 - ArchiCAD
 - Enscape
