@@ -2,7 +2,16 @@
 
 [![BasedOn - ArchiCAD](https://img.shields.io/badge/BasedOn-ArchiCAD-lightgrey?logo=Archicad)](https://graphisoft.com/solutions/archicad)
 
+<!---
 [![LatestBuild - Failed](https://img.shields.io/badge/LatestBuild-Failed-red)](https://github.com/wzp2002/ArchDesign-II/releases)
+-->
+
+[![LatestBuild - Successed](https://img.shields.io/badge/LatestBuild-Successed-green)](https://github.com/wzp2002/ArchDesign-II/releases)
+
+<!---
+[![releaseBuild - Failed](https://img.shields.io/badge/releaseBuild-Failed-red)](https://github.com/wzp2002/ArchDesign-II/releases)
+-->
+
 [![releaseBuild - Successed](https://img.shields.io/badge/releaseBuild-Successed-green)](https://github.com/wzp2002/ArchDesign-II/releases)
 
 [![wzp2002 - ArchDesign-II](https://img.shields.io/static/v1?label=wzp2002&message=ArchDesign-II&color=blue&logo=github)](https://github.com/wzp2002/ArchDesign-II "Go to GitHub repo")
