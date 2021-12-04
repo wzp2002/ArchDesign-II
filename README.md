@@ -37,6 +37,28 @@ Update in every Monday & Thursday during the semester, until next year.
 
 Pretty exceptional choices, huh.
 
+
+#### Future path
+
+But maybe I'll choose to try out with more options, here's some further (might be) *workable* choices:
+
+- Vectorworks Architect
+- Revit
+- Edificius
+- Tekla (by Trimble)
+
+And some non-BIM solutions for just enhancing my 3D modeling ability:
+
+- 3DS MAX / maya
+- Unreal Engine (5)
+- Blender
+- Rhino
+- FreeCAD
+
+I'll try them out someday and considering them as some challenges.
+
+(List has no order, include but not limited to these software. If I have more interesting things found, I might list them & try them all some day.)
+
 ## Constructure
 
 ### Folders
