@@ -37,7 +37,7 @@ Update in every Monday & Thursday during the semester, until next year.
 - Enscape
 - Affinity Photo/Designer/Publisher
 
-### The rest projects was/is/well be using
+### The rest projects was/is/will be using
 
 - ArchiCAD
 - Enscape
@@ -100,4 +100,4 @@ This repository uses CC Attribution-NonCommercial-ShareAlike 4.0 International l
 
 Zhaoping Wang(@wzp2002) for designing works
 
-FDS(@nonefffds) for helping upload files / writing notes / keeping thing mint.
+FDS(@nonefffds) for helping upload files / writing notes / keeping thing mint, sometimes override.
