@@ -1,7 +1,7 @@
 # ArchDesign-II
-
+<!---
 [Paused for vacation]
-
+-->
 [![BasedOn - ArchiCAD](https://img.shields.io/badge/BasedOn-ArchiCAD-lightgrey?logo=Archicad)](https://graphisoft.com/solutions/archicad)
 
 <!---
@@ -33,18 +33,19 @@ Update in every Monday & Thursday during the semester, until next year.
 
 ### The first project(2021-1-1) was using
 
-- SketchUP
-- AutoCAD 2022 (CAD.dwg file must be opened with AutoCAD + TZ Arch T20 v7.0)
+- Shapr3D (not included)
+- SketchUP(.skp)
+- AutoCAD 2022 (CAD.dwg file must be opened with AutoCAD + TZ Arch T20 v7.0)(.dwg)
 - TianZheng Arch. T20 v7.0
 - Enscape
-- Affinity Photo/Designer/Publisher
+- Affinity Photo/Designer/Publisher (in .png for presentation)
 
 ### The rest projects was/is/will be using
 
-- ArchiCAD
+- ArchiCAD(.pln)
 - Enscape
 - Twinmotion w/ Direct Link (& Epic Game Store)
-- Affinity Photo/Designer/Publisher
+- Affinity Photo/Designer/Publisher (in .png for presentation)
 
 Pretty exceptional choices, huh.
 
@@ -74,7 +75,9 @@ I'll try them out someday and considering them as some challenges.
 
 ### Folders
 
-This Repository’s root folder is ordered chronologically. Format: YEAR-Grade-ProjectNo. (E.g: 2021-1-2)
+This Repository’s root folder is ordered chronologically. Format: YEAR-Semester-ProjectNo. (E.g: 2021-1-2)
+
+The YEAR in this repository will be 2021(The starting year of the grade)
 
 All project related file are stored in the corresponding folder.
 
