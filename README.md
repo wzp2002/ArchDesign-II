@@ -38,14 +38,15 @@ Update in every Monday & Thursday during the semester, until next year.
 - AutoCAD 2022 (CAD.dwg file must be opened with AutoCAD + TZ Arch T20 v7.0)(.dwg)
 - TianZheng Arch. T20 v7.0
 - Enscape
-- Affinity Photo/Designer/Publisher (in .png for presentation)
+- Affinity Photo/Designer/Publisher (in .png for showcase)
 
 ### The rest projects was/is/will be using
 
+- SketchUp (early stage)
 - ArchiCAD(.pln)
 - Enscape
 - Twinmotion w/ Direct Link (& Epic Game Store)
-- Affinity Photo/Designer/Publisher (in .png for presentation)
+- Affinity Photo/Designer/Publisher (in .png for showcase)
 
 Pretty exceptional choices, huh.
 
